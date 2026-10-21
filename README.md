@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1310,55:16241f,100:c9a96e&text=Abdalah%20ADO%C3%8F&fontColor=eee9dd&fontSize=58&fontAlignY=38&desc=D%C3%A9veloppeur%20Shopify%20%C2%B7%20Shopify%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Abdalah ADOÏ — Développeur Shopify" width="100%" />
 
-<a href="https://abdalah-portfolio.vercel.app">
+<a href="https://abdalah-adoi.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3200&pause=900&color=C9A96E&center=true&vCenter=true&width=680&lines=Des+boutiques+Shopify+taill%C3%A9es+pour+vendre.;165%2B+boutiques+mises+en+ligne.;Liquid+%C2%B7+Conversion+%C2%B7+R%C3%A9f%C3%A9rencement.;Shopify+stores+engineered+to+sell." alt="Des boutiques Shopify taillées pour vendre" />
 </a>
 
 <p>
-  <a href="https://abdalah-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c9a96e?style=for-the-badge&logo=vercel&logoColor=0b1310" alt="Portfolio" /></a>
-  <a href="https://abdalah-portfolio.vercel.app/cv"><img src="https://img.shields.io/badge/CV-16241f?style=for-the-badge&logo=readdotcv&logoColor=eee9dd" alt="CV" /></a>
+  <a href="https://abdalah-adoi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c9a96e?style=for-the-badge&logo=vercel&logoColor=0b1310" alt="Portfolio" /></a>
+  <a href="https://abdalah-adoi.vercel.app/cv"><img src="https://img.shields.io/badge/CV-16241f?style=for-the-badge&logo=readdotcv&logoColor=eee9dd" alt="CV" /></a>
   <a href="mailto:abdalahprox@gmail.com"><img src="https://img.shields.io/badge/E--mail-16241f?style=for-the-badge&logo=gmail&logoColor=eee9dd" alt="E-mail" /></a>
   <a href="https://wa.me/22969272595"><img src="https://img.shields.io/badge/WhatsApp-16241f?style=for-the-badge&logo=whatsapp&logoColor=eee9dd" alt="WhatsApp" /></a>
 </p>
@@ -77,7 +77,7 @@ disponible:   oui — à distance, partout dans le monde
 | **Bambino & Co.** | Bombes de bain pour enfants | [bambinokidzz.store](https://bambinokidzz.store) |
 | **Seshell Beauty Label** | Gainage sculptant | [seshell-label.com](https://seshell-label.com) |
 
-➡️ **Tous les projets, avec les vidéos de fabrication :** [abdalah-portfolio.vercel.app/realisations](https://abdalah-portfolio.vercel.app/realisations)
+➡️ **Tous les projets, avec les vidéos de fabrication :** [abdalah-adoi.vercel.app/realisations](https://abdalah-adoi.vercel.app/realisations)
 
 ### Sur ce GitHub
 
