@@ -1,52 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,55:2a0d06,100:ff4d1c&text=Abdalah%20ADO%C3%8F&fontColor=f3f0ea&fontSize=58&fontAlignY=38&desc=D%C3%A9veloppeur%20Shopify%20%C2%B7%20Shopify%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Abdalah ADOÏ — Développeur Shopify" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1310,55:16241f,100:c9a96e&text=Abdalah%20ADO%C3%8F&fontColor=eee9dd&fontSize=58&fontAlignY=38&desc=D%C3%A9veloppeur%20Shopify%20%C2%B7%20Shopify%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Abdalah ADOÏ — Développeur Shopify" width="100%" />
 
 <a href="https://abdalah-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3200&pause=900&color=FF4D1C&center=true&vCenter=true&width=640&lines=Des+boutiques+Shopify+qui+vendent.;200%2B+boutiques+con%C3%A7ues+%26+livr%C3%A9es.;Liquid+%C2%B7+CRO+%C2%B7+SEO+%C2%B7+Mobile-first.;Shopify+stores+built+to+sell." alt="Des boutiques Shopify qui vendent" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3200&pause=900&color=C9A96E&center=true&vCenter=true&width=680&lines=Des+boutiques+Shopify+taill%C3%A9es+pour+vendre.;165%2B+boutiques+mises+en+ligne.;Liquid+%C2%B7+Conversion+%C2%B7+R%C3%A9f%C3%A9rencement.;Shopify+stores+engineered+to+sell." alt="Des boutiques Shopify taillées pour vendre" />
 </a>
 
 <p>
-  <a href="https://abdalah-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff4d1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://abdalah-portfolio.vercel.app/cv"><img src="https://img.shields.io/badge/CV-17171b?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
-  <a href="mailto:abdalahprox@gmail.com"><img src="https://img.shields.io/badge/abdalahprox@gmail.com-17171b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://abdalah-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c9a96e?style=for-the-badge&logo=vercel&logoColor=0b1310" alt="Portfolio" /></a>
+  <a href="https://abdalah-portfolio.vercel.app/cv"><img src="https://img.shields.io/badge/CV-16241f?style=for-the-badge&logo=readdotcv&logoColor=eee9dd" alt="CV" /></a>
+  <a href="mailto:abdalahprox@gmail.com"><img src="https://img.shields.io/badge/E--mail-16241f?style=for-the-badge&logo=gmail&logoColor=eee9dd" alt="E-mail" /></a>
+  <a href="https://wa.me/22969272595"><img src="https://img.shields.io/badge/WhatsApp-16241f?style=for-the-badge&logo=whatsapp&logoColor=eee9dd" alt="WhatsApp" /></a>
 </p>
 
 </div>
 
 ---
 
-### 👋 Salut, moi c'est Abdalah
+### Bonjour, je suis Abdalah
 
-Je suis **développeur Shopify freelance**. Je conçois et développe des boutiques Shopify **pensées pour vendre** — pas juste pour être jolies : structure de page qui convertit, preuve sociale, tunnels d'achat fluides, SEO technique et vitesse réelle sur mobile.
+**Développeur Shopify indépendant**, je conçois des boutiques en ligne dont le but est simple : **vendre**. Chaque projet repose sur un parcours d'achat sans friction, des signaux de confiance bien placés, un référencement soigné et une boutique rapide sur mobile.
 
-> 🇬🇧 *Freelance Shopify developer. I design and build Shopify stores engineered to sell: high-converting page structures, social proof, smooth checkout flows, technical SEO and real mobile speed.*
+> 🇬🇧 *Independent Shopify developer. I build online stores with one clear purpose — selling: a frictionless buying journey, well-placed trust signals, solid SEO and real speed on mobile.*
 
 ```yaml
-role:        Développeur Shopify & Web
-focus:       [Création de boutiques, Refonte, CRO, SEO, Gestion de boutique]
-stores:      200+ boutiques conçues & livrées
-delivery:    ~3 jours en moyenne pour une boutique complète
-themes:      Story (premium) · Dawn & templates · thèmes sur-mesure
-languages:   [Français, English]
-available:   true   # à distance, partout dans le monde
+métier:       Développeur Shopify & Web
+spécialités:  [Création de boutiques, Refonte, Optimisation des ventes, Référencement, Gestion de boutique]
+réalisations: 165+ boutiques mises en ligne
+expérience:   4 ans dans le développement web
+délai moyen:  ~3 jours pour une boutique complète
+thèmes:       Story (premium) · templates Shopify · thèmes sur-mesure
+langues:      [Français, English]
+disponible:   oui — à distance, partout dans le monde
 ```
 
-### 🛍️ Ce que je fais
+### Mon expertise
 
 | | |
 |---|---|
-| 🏗️ **Création de boutiques** | Mono-produit ou multi-produits, thème premium Story, template par défaut ou thème 100 % sur-mesure |
-| 📈 **Optimisation de la conversion** | Hero à impact, preuve sociale, offres bundle, comparatifs, FAQ anti-objections |
-| ⚡ **Performance & SEO** | Mobile-first, vitesse de chargement, balisage et maillage propres pour Google |
-| 🧩 **Liquid & intégrations** | Sections personnalisées, apps, paiement, tracking |
-| 🤝 **Gestion de boutique** | Ajout de produits, fiches optimisées, suivi des ventes, conseils continus |
+| 🏗️ **Création de boutiques** | Mono-produit ou catalogue complet, sur le thème Story, un template standard ou un thème 100 % sur-mesure |
+| 📈 **Optimisation des ventes** | Accroche forte, preuve sociale, offres groupées, comparatifs, FAQ qui lève les freins |
+| ⚡ **Vitesse & référencement** | Pensé mobile d'abord, chargement rapide, balisage et maillage propres pour Google |
+| 🧩 **Liquid & intégrations** | Sections sur-mesure, applications, moyens de paiement, suivi des conversions |
+| 🤝 **Gestion au quotidien** | Mise en ligne des produits, fiches optimisées, suivi des ventes, recommandations régulières |
 
-### 🧰 Stack
+### Mes outils
 
 <p>
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Liquid-004999?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -63,27 +66,27 @@ available:   true   # à distance, partout dans le monde
   <img src="https://img.shields.io/badge/SEO-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="SEO" />
 </p>
 
-### ✨ Quelques boutiques en ligne
+### Quelques boutiques en ligne
 
-| Boutique | Univers | |
+| Boutique | Secteur | |
 |---|---|---|
-| **SublimeBust** | Bien-être | [sublimebust.com](https://sublimebust.com) |
-| **CurmaParis** | Beauté · soins au curcuma | [curmaparis.fr](https://curmaparis.fr) |
-| **Rosaditah Beauty** | Beauté | [rosaditahbeauty.com](https://rosaditahbeauty.com) |
-| **Seshell Beauty Label** | Mode · shapewear | [seshell-label.com](https://seshell-label.com) |
-| **Crew Essentiels** | Voyage · personnel navigant | [crewessentiels.com](https://crewessentiels.com) |
-| **Lumeviah** | Beauté | [lumeviah.com](https://lumeviah.com) |
+| **Maison Avelya** | Bijoux dorés, esprit bord de mer | [night-ritual.com](https://night-ritual.com) |
+| **Saylara** | Soin du contour des yeux | [saylara.fr](https://saylara.fr) |
+| **Kyra Cosmetic** | Sérum pour les cils | [kyracosmetic.com](https://kyracosmetic.com) |
+| **Ramphort Moto** | Sécurité et équipement moto | [matakila.com](https://matakila.com) |
+| **Bambino & Co.** | Bombes de bain pour enfants | [bambinokidzz.store](https://bambinokidzz.store) |
+| **Seshell Beauty Label** | Gainage sculptant | [seshell-label.com](https://seshell-label.com) |
 
-➡️ **Toutes les réalisations (avec les vidéos de construction) :** [abdalah-portfolio.vercel.app/realisations](https://abdalah-portfolio.vercel.app/realisations)
+➡️ **Tous les projets, avec les vidéos de fabrication :** [abdalah-portfolio.vercel.app/realisations](https://abdalah-portfolio.vercel.app/realisations)
 
-### 📂 Sur ce GitHub
+### Sur ce GitHub
 
-- [**abdalah-portfolio**](https://github.com/abdalahpro/abdalah-portfolio) — mon portfolio immersif : Next.js 16, Three.js (React Three Fiber), shaders GLSL, GSAP ScrollTrigger & Lenis.
+- [**abdalah-portfolio**](https://github.com/abdalahpro/abdalah-portfolio) — mon portfolio immersif : Next.js 16, Three.js (React Three Fiber), shaders GLSL, GSAP ScrollTrigger et Lenis.
 
-### 📬 Travaillons ensemble
+### Travaillons ensemble
 
-Un projet de boutique, une refonte ou une offre de poste Shopify ? **Écris-moi : [abdalahprox@gmail.com](mailto:abdalahprox@gmail.com)** — réponse sous 24 h.
+Une boutique à créer, une refonte, une offre de poste Shopify ? **[abdalahprox@gmail.com](mailto:abdalahprox@gmail.com)** ou **[WhatsApp](https://wa.me/22969272595)** — réponse sous 24 heures.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ff4d1c,45:2a0d06,100:09090b&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:c9a96e,45:16241f,100:0b1310&section=footer" width="100%" alt="" />
 </div>
