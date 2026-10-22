@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1310,55:16241f,100:c9a96e&text=Abdalah%20ADO%C3%8F&fontColor=eee9dd&fontSize=58&fontAlignY=38&desc=D%C3%A9veloppeur%20Shopify%20%C2%B7%20Shopify%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Abdalah ADOÏ — Développeur Shopify" width="100%" />
 
 <a href="https://abdalah-adoi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3200&pause=900&color=C9A96E&center=true&vCenter=true&width=680&lines=Des+boutiques+Shopify+taill%C3%A9es+pour+vendre.;165%2B+boutiques+mises+en+ligne.;Liquid+%C2%B7+Conversion+%C2%B7+R%C3%A9f%C3%A9rencement.;Shopify+stores+engineered+to+sell." alt="Des boutiques Shopify taillées pour vendre" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3200&pause=900&color=C9A96E&center=true&vCenter=true&width=680&lines=Je+cr%C3%A9e+des+boutiques+Shopify+qui+vendent.;165%2B+boutiques+mises+en+ligne.;Liquid+%C2%B7+Conversion+%C2%B7+R%C3%A9f%C3%A9rencement.;Shopify+stores+engineered+to+sell." alt="Je crée des boutiques Shopify qui vendent" />
 </a>
 
 <p>
@@ -19,9 +19,9 @@
 
 ### Bonjour, je suis Abdalah
 
-**Développeur Shopify indépendant**, je conçois des boutiques en ligne dont le but est simple : **vendre**. Chaque projet repose sur un parcours d'achat sans friction, des signaux de confiance bien placés, un référencement soigné et une boutique rapide sur mobile.
+**Développeur Shopify freelance** avec 4 ans d'expérience. Je crée des boutiques Shopify **qui vendent** : belles, rapides sur mobile, faciles à utiliser et bien placées sur Google.
 
-> 🇬🇧 *Independent Shopify developer. I build online stores with one clear purpose — selling: a frictionless buying journey, well-placed trust signals, solid SEO and real speed on mobile.*
+> 🇬🇧 *Freelance Shopify developer with 4 years of experience. I build Shopify stores that sell: good-looking, fast on mobile, easy to use and easy to find on Google.*
 
 ```yaml
 métier:       Développeur Shopify & Web
@@ -34,13 +34,13 @@ langues:      [Français, English]
 disponible:   oui — à distance, partout dans le monde
 ```
 
-### Mon expertise
+### Mes services
 
 | | |
 |---|---|
 | 🏗️ **Création de boutiques** | Mono-produit ou catalogue complet, sur le thème Story, un template standard ou un thème 100 % sur-mesure |
-| 📈 **Optimisation des ventes** | Accroche forte, preuve sociale, offres groupées, comparatifs, FAQ qui lève les freins |
-| ⚡ **Vitesse & référencement** | Pensé mobile d'abord, chargement rapide, balisage et maillage propres pour Google |
+| 📈 **Plus de ventes** | Avis clients, offres, comparatifs et FAQ pour rassurer et faire acheter |
+| ⚡ **Rapide et visible** | Pensé pour le mobile, chargement rapide, bon référencement Google |
 | 🧩 **Liquid & intégrations** | Sections sur-mesure, applications, moyens de paiement, suivi des conversions |
 | 🤝 **Gestion au quotidien** | Mise en ligne des produits, fiches optimisées, suivi des ventes, recommandations régulières |
 
